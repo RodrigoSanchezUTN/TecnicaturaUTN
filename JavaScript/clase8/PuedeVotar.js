@@ -1,0 +1,21 @@
+//Convertir String a Number
+let miNumero = "21"; //Es una cadena
+console.log(typeof miNumero);
+let edad2 = Number(miNumero); //Esta es una función
+console.log(typeof edad2);
+//Función isNaN
+if(isNaN(edad2)){ //No es un número = is Not a Number(devuelve un resultado booleano)
+    console.log("Esta variable no contiene solo numeros")
+}
+else{
+    if(edad2 >= 18){
+        console.log("Puede votar");
+    }
+    else{
+        console.log("Muy joven para votar");
+    }
+}
+
+//Operador ternario
+let resultado3 = edad2 >= 18 ? "Puede votar" : "Muy joven para votar";
+console.log(resultado3);
