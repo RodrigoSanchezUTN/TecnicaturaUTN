@@ -23,7 +23,7 @@
 | Introducción a la Programación |  Entregado | - |
 | Java |  Entregado | - |
 | JavaScript |  Entregado | - |
-| Pythonn |  Entregado | - |
+| Python |  Entregado | - |
 | Fundamentos de Git |  Entregado | - |
 
 ---
