@@ -33,28 +33,37 @@
 
 ---
 
-### 📈 Progreso Académico
-*Duración estimada: 2 años | 8 semestres totales*
+### 📈 Progreso de la Tecnicatura
+*Duración: 2 años | 8 semestres totales*
 
-#### Año 1: Semestres 1-4
-| Semestre | Estado | Avance Visual |
+#### 🔹 Año 1: Semestres 1 al 4
+| Semestre | Estado | Avance del año |
 | :--- | :--- | :--- |
-| **S1** | 🟡 50% | `██████░░░░░░░░░░░░░░` |
-| **S2** | 🔴 00% | `░░░░░░░░░░░░░░░░░░░░` |
-| **S3** | 🔴 00% | `░░░░░░░░░░░░░░░░░░░░` |
-| **S4** | 🔴 00% | `░░░░░░░░░░░░░░░░░░░░` |
+| **Semestre 1** | 🟡 50% completado | `██████░░░░░░░░░░░░░░` |
+| **Semestre 2** | 🔴 Pendiente | `░░░░░░░░░░░░░░░░░░░░` |
+| **Semestre 3** | 🔴 Pendiente | `░░░░░░░░░░░░░░░░░░░░` |
+| **Semestre 4** | 🔴 Pendiente | `░░░░░░░░░░░░░░░░░░░░` |
 
-> **Progreso Año 1:** 12.5% `[■■■■□□□□□□□□□□□□□□□□]`
+> **Progreso del Año 1:** `████░░░░░░░░░░░░░░░░░░░░░` **12.5%** *(de 8 semestres totales)*
 
-#### Año 2: Semestres 5-8
-*Aun no iniciados.*
-
-| Semestre | Estado | Avance Visual |
+#### 🔹 Año 2: Semestres 5 al 8
+| Semestre | Estado | Avance del año |
 | :--- | :--- | :--- |
-| **S5 - S8** | 🔴 00% | `░░░░░░░░░░░░░░░░░░░░` |
+| **Semestre 5** | 🔴 Pendiente | `░░░░░░░░░░░░░░░░░░░░` |
+| **Semestre 6** | 🔴 Pendiente | `░░░░░░░░░░░░░░░░░░░░` |
+| **Semestre 7** | 🔴 Pendiente | `░░░░░░░░░░░░░░░░░░░░` |
+| **Semestre 8** | 🔴 Pendiente | `░░░░░░░░░░░░░░░░░░░░` |
 
-> **Progreso Año 2:** 0% `[□□□□□□□□□□□□□□□□□□□□]`
+> **Progreso del Año 2:** `0%` `░░░░░░░░░░░░░░░░░░░░`
 
 ---
 
-### 📊 Resumen Global
+### 📊 Resumen
+
+| Año | Semestres | Porcentaje de la carrera | Barra |
+| :---: | :---: | :---: | :--- |
+| **Año 1** | 1 al 4 | 12,5% | `████░░░░░░░░░░░░░░░░░░░░░░` |
+| **Año 2** | 5 al 8 | 0% | `░░░░░░░░░░░░░░░░░░░░░░░░` |
+
+```📊
+Progreso total: ████ ░ ░ ░ ░ ░ █ █ █ █ 12.5% (1 de 8 semestres a la mitad)
