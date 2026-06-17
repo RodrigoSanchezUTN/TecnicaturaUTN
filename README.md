@@ -16,7 +16,6 @@
 ---
 
 ### 📚 Estado de Materias
-*Cursos aprobados y certificados.*
 
 - [x] **Introducción a la Programación**
 - [x] **Java**
