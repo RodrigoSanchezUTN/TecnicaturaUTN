@@ -15,14 +15,15 @@
 
 ---
 
-### 📚 Estado de Materias
-*Cursos aprobados y certificados.*
+### 📚 Control de Materias
 
-- [x] **Introducción a la Programación** — Entregado
-- [x] **Java** — Entregado
-- [x] **JavaScript** — Entregado
-- [x] **Pitón** — Entregado
-- [x] **Fundamentos de Git** — Entregado
+| Check | Asignatura | Estado Actual |
+| :---: | :--- | :--- |
+| `[x]` | 📘 **Introducción a la Programación** | 🟢 **Entregado** |
+| `[x]` | ☕ **Java** | 🟢 **Entregado** |
+| `[x]` | 💛 **JavaScript** | 🟢 **Entregado** |
+| `[x]` | 🐍 **Pitón** | 🟢 **Entregado** |
+| `[x]` | 🐙 **Fundamentos de Git** | 🟢 **Entregado** |
 
 ---
 
