@@ -17,13 +17,13 @@
 
 ### 📚 Control de Materias
 
-| Asignatura | Estado Actual |
+| Check | Asignatura | Estado Actual |
 | :---: | :--- | :--- |
-| 📘 **Introducción a la Programación** | 🟢 **Entregado** |
-| ☕ **Java** | 🟢 **Entregado** |
-| 💛 **JavaScript** | 🟢 **Entregado** |
-| 🐍 **Python** | 🟢 **Entregado** |
-| 🐙 **Fundamentos de Git** | 🟢 **Entregado** |
+| `[x]` | 📘 **Introducción a la Programación** | 🟢 **Entregado** |
+| `[x]` | ☕ **Java** | 🟢 **Entregado** |
+| `[x]` | 💛 **JavaScript** | 🟢 **Entregado** |
+| `[x]` | 🐍 **Python** | 🟢 **Entregado** |
+| `[x]` | 🐙 **Fundamentos de Git** | 🟢 **Entregado** |
 
 ---
 
